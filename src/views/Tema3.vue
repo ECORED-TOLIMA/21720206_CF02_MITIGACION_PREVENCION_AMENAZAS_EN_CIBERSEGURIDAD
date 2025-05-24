@@ -33,7 +33,7 @@
               figure
                 img(src='@/assets/curso/temas/tema3/img14.svg', alt='Imagen decorativa')
             .col-lg-9.col-12.mb-3
-              h4(style="color: #6018EC")  La ingeniería social 
+              h4 La ingeniería social 
               p.mb-0 A continuación, se presenta un video sobre la ingeniería social, en el cual se explican los principios básicos de esta técnica de manipulación, sus principales métodos de ejecución y los riesgos que representa para la seguridad de la información.
             .col-auto
               a.boton.color-acento-botones(href="https://www.youtube.com/embed/5FeJVcZerS0?si=vYqYYw8gTV_hFL4S" target="_blank")

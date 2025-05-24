@@ -20,7 +20,7 @@ export default {
       tema: 'Indicadores de gestión turística',
       titulo: 'Cuestionario',
       introduccion:
-        '<b> Objetivo:</b> Evaluar y fortalecer la comprensión sobre las amenazas y ataques de ciberseguridad mediante la identificación de afirmaciones verdaderas y falsas, promoviendo el análisis crítico.',
+        '<b> Objetivo:</b> evaluar y fortalecer la comprensión sobre las amenazas y ataques de ciberseguridad mediante la identificación de afirmaciones verdaderas y falsas, promoviendo el análisis crítico.',
       barajarPreguntas: true,
       preguntas: [
         {

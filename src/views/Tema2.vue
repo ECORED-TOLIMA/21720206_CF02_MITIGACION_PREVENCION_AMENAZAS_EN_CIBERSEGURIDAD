@@ -175,7 +175,7 @@
               figure
                 img(src='@/assets/curso/temas/tema2/img10.svg', alt='Imagen decorativa')
             .col-lg-8.col-12.mb-3
-              h4(style="color: #6018EC") Ataques y vulnerabilidades 
+              h4 Ataques y vulnerabilidades 
               p.mb-0 A continuación, se presenta un video sobre ataques y vulnerabilidades en ciberseguridad. Este recurso audiovisual permite reforzar los conocimientos adquiridos mediante ejemplos prácticos y un lenguaje claro.
             .col-auto
               a.boton.color-acento-botones(href="https://www.youtube.com/embed/au8EXjh-0jw?si=t0xW1quNAJ83HgtZ" target="_blank")

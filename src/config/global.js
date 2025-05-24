@@ -2,7 +2,7 @@ export default {
   global: {
     Name: 'Amenazas digitales, ingeniería social y ética en ciberseguridad',
     Description:
-      'Ese componente formativo establece las bases para comprender las amenazas digitales, la ingeniería social y la ética en ciberseguridad. Aborda tipos de ataques, vulnerabilidades, estrategias de manipulación, medidas preventivas y normativas éticas, proporcionando herramientas clave para la gestión de incidentes y la protección de la información en entornos digitales.',
+      'Este componente formativo establece las bases para comprender las amenazas digitales, la ingeniería social y la ética en ciberseguridad. Aborda tipos de ataques, vulnerabilidades, estrategias de manipulación, medidas preventivas y normativas éticas, proporcionando herramientas clave para la gestión de incidentes y la protección de la información en entornos digitales.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [

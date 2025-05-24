@@ -51,49 +51,49 @@
           .row.justify-content-center.mb-3
             .col-lg-5.col-sm-4.col-6
               img(src='@/assets/curso/temas/tema1/img04.svg' alt='AvatarTop')
-          p <em>Spyware</em>: diseñado para espiar al usuario, recopila información sobre su actividad, contraseñas y datos confidenciales, como credenciales bancarias. Suele instalarse junto a programas legítimos o mediante troyanos.
+          p <b><em>Spyware</em></b>: diseñado para espiar al usuario, recopila información sobre su actividad, contraseñas y datos confidenciales, como credenciales bancarias. Suele instalarse junto a programas legítimos o mediante troyanos.
 
         .tarjeta.tarjeta--BG05.p-4
           .row.justify-content-center.mb-3
             .col-lg-5.col-sm-4.col-6
               img(src='@/assets/curso/temas/tema1/img05.svg' alt='AvatarTop')
-          p <em>Adware</em>: muestra anuncios no deseados en el navegador o en el sistema. Aunque en algunos casos no es dañino, interfiere con la experiencia del usuario y puede abrir la puerta a otros tipos de <em>malware</em>.
+          p <b><em>Adware</em></b>: muestra anuncios no deseados en el navegador o en el sistema. Aunque en algunos casos no es dañino, interfiere con la experiencia del usuario y puede abrir la puerta a otros tipos de <em>malware</em>.
 
         .tarjeta.tarjeta--BG05.p-4
           .row.justify-content-center.mb-3
             .col-lg-5.col-sm-4.col-6
               img(src='@/assets/curso/temas/tema1/img06.svg' alt='AvatarTop')
-          p Puerta trasera (<em>backdoor</em>): permite el acceso remoto a un sistema sin autorización, evitando los mecanismos de seguridad. Actúa de forma silenciosa, facilitando el control total por parte del atacante.
+          p <b>Puerta trasera (<em>backdoor</em>)</b>: permite el acceso remoto a un sistema sin autorización, evitando los mecanismos de seguridad. Actúa de forma silenciosa, facilitando el control total por parte del atacante.
 
         .tarjeta.tarjeta--BG05.p-4
           .row.justify-content-center.mb-3
             .col-lg-5.col-sm-4.col-6
               img(src='@/assets/curso/temas/tema1/img07.svg' alt='AvatarTop')
-          p <em>Ransomware</em>: bloquea el acceso a los datos o al sistema mediante cifrado, exigiendo un pago (rescate) para liberarlos. Se propaga principalmente a través de correos electrónicos de <em>phishing</em> o vulnerabilidades en el sistema. Un ejemplo es WannaCry, que afectó a miles de dispositivos en todo el mundo en cuestión de horas.
+          p <b><em>Ransomware</em></b>: bloquea el acceso a los datos o al sistema mediante cifrado, exigiendo un pago (rescate) para liberarlos. Se propaga principalmente a través de correos electrónicos de <em>phishing</em> o vulnerabilidades en el sistema. Un ejemplo es WannaCry, que afectó a miles de dispositivos en todo el mundo en cuestión de horas.
 
         .tarjeta.tarjeta--BG05.p-4
           .row.justify-content-center.mb-3
             .col-lg-5.col-sm-4.col-6
               img(src='@/assets/curso/temas/tema1/img08.svg' alt='AvatarTop')
-          p <em>Scareware</em>: utiliza mensajes alarmantes para inducir al usuario a instalar programas falsos de "protección". Generalmente se manifiesta como ventanas emergentes que advierten sobre infecciones inexistentes.
+          p <b><em>Scareware</em></b>: utiliza mensajes alarmantes para inducir al usuario a instalar programas falsos de "protección". Generalmente se manifiesta como ventanas emergentes que advierten sobre infecciones inexistentes.
 
         .tarjeta.tarjeta--BG05.p-4
           .row.justify-content-center.mb-3
             .col-lg-5.col-sm-4.col-6
               img(src='@/assets/curso/temas/tema1/img09.svg' alt='AvatarTop')
-          p Virus: se adhiere a archivos ejecutables y necesita la intervención del usuario para activarse. Puede replicarse, mutar y propagarse a través de dispositivos extraíbles, redes compartidas o correo electrónico.
+          p <b>Virus</b>: se adhiere a archivos ejecutables y necesita la intervención del usuario para activarse. Puede replicarse, mutar y propagarse a través de dispositivos extraíbles, redes compartidas o correo electrónico.
 
         .tarjeta.tarjeta--BG05.p-4
           .row.justify-content-center.mb-3
             .col-lg-5.col-sm-4.col-6
               img(src='@/assets/curso/temas/tema1/img10.svg' alt='AvatarTop')
-          p Troyanos: se presentan como <em>software</em> legítimo, pero ejecutan acciones maliciosas sin el conocimiento del usuario. No se replican por sí solos, y frecuentemente se ocultan en archivos multimedia o juegos.
+          p <b>Troyanos</b>: se presentan como <em>software</em> legítimo, pero ejecutan acciones maliciosas sin el conocimiento del usuario. No se replican por sí solos, y frecuentemente se ocultan en archivos multimedia o juegos.
 
         .tarjeta.tarjeta--BG05.p-4
           .row.justify-content-center.mb-3
             .col-lg-5.col-sm-4.col-6
               img(src='@/assets/curso/temas/tema1/img11.svg' alt='AvatarTop')
-          p Gusanos: se replican automáticamente para propagarse por redes sin necesidad de intervención humana ni programa anfitrión. Son altamente destructivos y pueden afectar a miles de dispositivos en poco tiempo. Un ejemplo es el gusano Code Red, que en 2001 infectó más de 300.000 servidores en 19 horas.
+          p <b>Gusanos</b>: se replican automáticamente para propagarse por redes sin necesidad de intervención humana ni programa anfitrión. Son altamente destructivos y pueden afectar a miles de dispositivos en poco tiempo. Un ejemplo es el gusano Code Red, que en 2001 infectó más de 300.000 servidores en 19 horas.
     .cajon.tarjeta--BG02.px-md-5.px-4
       .titulo.mb-5(data-aos="flip-up")
         img(src='@/assets/curso/temas/ico.svg', alt='Imagen decorativa')
@@ -110,9 +110,9 @@
           .row.justify-content-center.mb-5
             .col-lg-8.col-12.mb-md-0.order-lg-1.order-2.mb-lg-0.mb-3
               p Son ataques a gran escala dirigidos a múltiples usuarios o sistemas simultáneamente, con el objetivo de saturar infraestructuras o causar daños significativos. Afectan a muchas víctimas al mismo tiempo, son altamente visibles y disruptivos, y suelen valerse de automatización o redes distribuidas, como los bots. Entre los más comunes se encuentran:
-              p Ataques DDoS: colapsan servidores mediante millones de solicitudes simultáneas.
-              p <em>Phishing</em> masivo: correos electrónicos enviados en masa para engañar a numerosos usuarios.
-              p <em>Ransomware</em> a gran escala: infecciones simultáneas de múltiples dispositivos, como el caso WannaCry.
+              p <b>Ataques DDoS</b>: colapsan servidores mediante millones de solicitudes simultáneas.
+              p <b><em>Phishing</em> masivo</b>: correos electrónicos enviados en masa para engañar a numerosos usuarios.
+              p <b><em>Ransomware</em> a gran escala</b>: infecciones simultáneas de múltiples dispositivos, como el caso WannaCry.
             .col-lg-4.col-6.col-md-6.col-8.order-lg-2.order-1.mb-lg-0.mb-3.d-none.d-lg-block
               figure
                 img(src='@/assets/curso/temas/tema1/img12.png', alt='Imagen decorativa')

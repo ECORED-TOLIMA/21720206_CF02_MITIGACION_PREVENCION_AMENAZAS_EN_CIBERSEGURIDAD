@@ -97,7 +97,7 @@
         .p-4
           figure.mb-4
             img(src='@/assets/curso/temas/tema5/img08.svg', style="width: 50px" ,alt='')
-          p.text-white #[b ¿Es aceptable vulnerar sistemas para denunciar injusticias (hacktivismo)?]
+          p.text-white #[b ¿Es aceptable vulnerar sistemas para denunciar injusticias #[em (hacktivismo)]?]
           
       .col-8.col-lg.bg-c2.m-2
         .p-4
@@ -127,7 +127,7 @@
               figure
                 img(src='@/assets/curso/temas/tema5/img07.svg', alt='Imagen decorativa')
             .col-lg-9.col-12.mb-3
-              h4(style="color: #6018EC")  Metodologías del <em>Hacking</em> ético
+              h4 Metodologías del <em>Hacking</em> ético
               p.mb-0 A continuación, se presenta un video sobre metodologías del <em>Hacking</em> ético. El video complementa los principios éticos abordados, resaltando la importancia del consentimiento, la legalidad y la responsabilidad en el ejercicio profesional de la seguridad digital.
             .col-auto
               a.boton.color-acento-botones(href="https://www.youtube.com/embed/r3S8tscj-bg?si=LMEhVskbp2ZlwpwI" target="_blank")

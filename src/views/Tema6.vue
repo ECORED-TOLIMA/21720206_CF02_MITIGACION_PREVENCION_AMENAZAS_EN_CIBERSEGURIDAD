@@ -185,19 +185,19 @@
         .row.justify-content-center.align-items-center
           .col-lg-9.col-12.mb-md-0.order-lg-1.order-2.mb-lg-0.mb-3
             p La gestión efectiva de incidentes de ciberseguridad requiere la participación de entidades especializadas que centralicen, analicen y coordinen las respuestas ante amenazas. Estas organizaciones, tanto a nivel nacional como internacional, ofrecen canales para reportar incidentes, divulgar vulnerabilidades y emitir alertas de seguridad. A continuación, se describen algunas de las principales entidades encargadas de esta labor:
-            p En Colombia:
+            h5 En Colombia:
             .tarjeta.tarjeta--BG03.p-3
               .col-12.mb-3.order-lg-1.order-2.mb-lg-0.p-2
                 ul.lista-ul--color.lista-ul
                   li.mb-3
                     i.fas.fa-shield
-                    p.mb-0 <b>ColCERT (Grupo de Respuesta a Emergencias Cibernéticas de Colombia):</b> dependiente del Ministerio de Tecnologías de la Información y las Comunicaciones (MinTIC), ColCERT es el equipo nacional encargado de coordinar la respuesta a incidentes de ciberseguridad. Recibe reportes, analiza amenazas y emite boletines de alerta. Sitio <em>web</em>: https://colcert.gov.co 
+                    p.mb-0 <b>ColCERT (Grupo de Respuesta a Emergencias Cibernéticas de Colombia):</b> dependiente del Ministerio de Tecnologías de la Información y las Comunicaciones (MinTIC), ColCERT es el equipo nacional encargado de coordinar la respuesta a incidentes de ciberseguridad. Recibe reportes, analiza amenazas y emite boletines de alerta. Sitio <em>web</em>: <A href="https://colcert.gov.co"> https://colcert.gov.co</A> 
                   li.mb-3
                     i.fas.fa-shield
                     p.mb-0 <b>CSIRT de entidades estatales y privadas:</b> muchas organizaciones públicas y privadas cuentan con su propio CSIRT (Computer Security Incident Response Team), equipos especializados en recibir, analizar y mitigar incidentes dentro de sus redes.
                   li.mb-3
                     i.fas.fa-shield
-                    p.mb-0 <b>Policía Nacional - Centro Cibernético Policial (CCP):</b> encargado de recibir denuncias sobre delitos informáticos. Ofrece canales como el CAI Virtual y el portal de denuncias en línea. Sitio <em>web</em>: https://caivirtual.policia.gov.co 
+                    p.mb-0 <b>Policía Nacional - Centro Cibernético Policial (CCP):</b> encargado de recibir denuncias sobre delitos informáticos. Ofrece canales como el CAI Virtual y el portal de denuncias en línea. Sitio <em>web</em>: <a href="https://caivirtual.policia.gov.co">https://caivirtual.policia.gov.co</a> 
                   li.mb-3
                     i.fas.fa-shield
                     p.mb-0 <b>Fiscalía General de la Nación:</b> investiga y judicializa los delitos informáticos reportados por ciudadanos, empresas o instituciones del Estado.
@@ -209,7 +209,7 @@
       .col-12
         .row.justify-content-center.align-items-center
           .col-lg-9.col-12.mb-md-0.order-lg-2.order-2.mb-lg-0.mb-3
-            p A nivel internacional:
+            h5 A nivel internacional:
             .tarjeta.tarjeta--BG03.p-3.mb-3
               .col-12.mb-3.order-lg-1.order-2.mb-lg-0.p-2
                 ul.lista-ul--color.lista-ul
