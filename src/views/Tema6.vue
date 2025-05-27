@@ -197,7 +197,7 @@
                     p.mb-0 <b>CSIRT de entidades estatales y privadas:</b> muchas organizaciones públicas y privadas cuentan con su propio CSIRT (Computer Security Incident Response Team), equipos especializados en recibir, analizar y mitigar incidentes dentro de sus redes.
                   li.mb-3
                     i.fas.fa-shield
-                    p.mb-0 <b>Policía Nacional - Centro Cibernético Policial (CCP):</b> encargado de recibir denuncias sobre delitos informáticos. Ofrece canales como el CAI Virtual y el portal de denuncias en línea. Sitio <em>web</em>: <a href="https://caivirtual.policia.gov.co">https://caivirtual.policia.gov.co</a> 
+                    p.mb-0 <b>Policía Nacional - Centro Cibernético Policial (CCP):</b> encargado de recibir denuncias sobre delitos informáticos. Ofrece canales como el CAI Virtual y el portal de denuncias en línea.
                   li.mb-3
                     i.fas.fa-shield
                     p.mb-0 <b>Fiscalía General de la Nación:</b> investiga y judicializa los delitos informáticos reportados por ciudadanos, empresas o instituciones del Estado.
