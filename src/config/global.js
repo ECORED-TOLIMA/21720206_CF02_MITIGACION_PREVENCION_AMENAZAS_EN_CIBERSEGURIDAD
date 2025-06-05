@@ -305,7 +305,7 @@ export default {
     },
     {
       referencia:
-        'Ecosistema de Recursos Educativos Digitales. (2022). Metodologías del <em>Hacking</em> ético [Video]. YouTube.',
+        'Ecosistema de Recursos Educativos Digitales. (2022). Metodologías del <em>hacking</em> ético [Video]. YouTube.',
       link: 'https://www.youtube.com/watch?v=r3S8tscj-bg',
     },
     {

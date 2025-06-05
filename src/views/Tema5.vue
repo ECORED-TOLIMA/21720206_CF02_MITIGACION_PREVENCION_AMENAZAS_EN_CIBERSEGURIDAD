@@ -41,7 +41,7 @@
                 img(src='@/assets/curso/temas/tema5/img03.png', style="width: 100%" ,alt='').m-auto
             .col-12.bg-c1.h-100
               .p-4
-                p <b><em>Hacking</em> ético vs. <em>Hacking</em> malicioso:</b> distinguir entre el uso legítimo de técnicas de <em>Hacking</em> para fortalecer la seguridad y el uso con fines ilícitos es crucial. El <em>Hacking</em> ético se realiza con autorización y persigue prevenir riesgos, mientras que el <em>Hacking</em> malicioso busca dañar, espiar o robar.
+                p <b><em>Hacking</em> ético vs. <em>hacking</em> malicioso:</b> distinguir entre el uso legítimo de técnicas de <em>hacking</em> para fortalecer la seguridad y el uso con fines ilícitos es crucial. El <em>hacking</em> ético se realiza con autorización y persigue prevenir riesgos, mientras que el <em>hacking</em> malicioso busca dañar, espiar o robar.
                 br
 
       .row.justify-content-center.mb-5(data-aos="flip-down")
