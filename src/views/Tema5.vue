@@ -128,7 +128,7 @@
                 img(src='@/assets/curso/temas/tema5/img07.svg', alt='Imagen decorativa')
             .col-lg-9.col-12.mb-3
               h4 Metodologías del <em>Hacking</em> ético
-              p.mb-0 A continuación, se presenta un video sobre metodologías del <em>Hacking</em> ético. El video complementa los principios éticos abordados, resaltando la importancia del consentimiento, la legalidad y la responsabilidad en el ejercicio profesional de la seguridad digital.
+              p.mb-0 A continuación, se presenta un video sobre metodologías del <em>hacking</em> ético. El video complementa los principios éticos abordados, resaltando la importancia del consentimiento, la legalidad y la responsabilidad en el ejercicio profesional de la seguridad digital.
             .col-auto
               a.boton.color-acento-botones(href="https://www.youtube.com/embed/r3S8tscj-bg?si=LMEhVskbp2ZlwpwI" target="_blank")
                 span Abrir video
